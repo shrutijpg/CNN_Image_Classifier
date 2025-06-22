@@ -1,0 +1,17 @@
+# Ignore virtual environment
+env/
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# System files
+.DS_Store
+
+# TensorFlow large files
+*.dll
+*.pyd
+*.so
+*.dylib
