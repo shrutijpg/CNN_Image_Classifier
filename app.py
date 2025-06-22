@@ -103,7 +103,7 @@ with st.expander("ℹ About this project"):
     - 📚 *Model:* Custom CNN trained on cats vs dogs dataset
     - 🧰 *Tech Stack:* TensorFlow, Keras, Streamlit, Python
     - 🧠 *Use Case:* Real-time image classification using computer vision
-    - 📋 *GitHub:* [github.com/VikasKanwar101/Cnn_Image_Classifier](https://github.com/shrutijpg/CNN_Image_Classifier)
+    - 📋 *GitHub:* [https://github.com/shrutijpg/CNN_Image_Classifier](https://github.com/shrutijpg/CNN_Image_Classifier)
     """)
 
 # Add GitHub CTA below main content
